@@ -1,4 +1,4 @@
-Budget Tracking Application 
+Budget Tracking Application
 
 -> Made using OOP Concepts by making a Category Class with attributes and behaviors.
 -> Category class is instantiated by the name of the category and an empty ledger list wherein all the transactions are stored.
