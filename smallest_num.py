@@ -15,6 +15,7 @@ for val in main_list:
     if smallest > val:
     
         smallest = val
+        
      
 
 print("Smallest no. is: ",smallest)    
