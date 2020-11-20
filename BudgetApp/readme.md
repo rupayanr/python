@@ -5,11 +5,11 @@ Budget Tracking Application
 -> Object of Category class looks like this: object = Category("Food")
 -> Class independent method create_spend_chart() prints out the %spend in each category according to the withdrawal amount.
 
-Attributes:
+Attributes
 -> category : <Name of the category>
 -> ledger : [list of transactions in that category]
 
-Methods:
+Methods
 -> deposit(amount,descritpion="")
     1) Creates a dictionary object {"amount" : <amount given by user>, "description" :"<string entered by user>"}
     2) Appends this object to ledger list
